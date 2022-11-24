@@ -2,6 +2,6 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <h3>Welcometo Sankara Software Services</h3>
+    <h3>Welcome to Sankara Software Services Pvt Ltd</h3>
     <p>Use this area to provide additional information.</p>
 </asp:Content>
